@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="Phone">Phone: </string>
+    <string name="Message">Message:</string>
+    <string name="Send">Send</string>
+    <string name="DelPhoneNumber">Delete phone number</string>
+    <string name="DelMessage">Delete message</string>
+    <string name="Sending">Sending ...</string>
+    <string name="toPhoneNumber">To phone number:</string>
+    <string name="selectVia">Select via:</string>
+    <string name="sendingVia">Sending via</string>
+    <string name="cancel">Cancel</string>
+    <string name="seelct_contact">Select Contact</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="dial">Dial</string>
+    <string name="to">to:</string>
+</resources>
